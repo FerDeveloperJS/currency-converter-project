@@ -7,6 +7,13 @@ function ArrowLeftRight() {
       fill="black"
       className="bi bi-arrow-left-right cursor-pointer"
       viewBox="0 0 16 16"
+      onClick={() => {
+        const from = document.querySelector("#from");
+        const to = document.querySelector("#to");
+        const oldTo = to.value;
+        to.value = from.value;
+        from.value = oldTo;
+      }}
     >
       <path
         fill-rule="evenodd"
