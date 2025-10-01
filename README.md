@@ -8,6 +8,13 @@ Aplicación web que permite convertir entre distintas divisas de forma rápida y
 - Interfaz limpia y responsiva gracias a Tailwind CSS.
 - Selección de divisas mediante menús desplegables fáciles de usar.
 
+## 📸 Screenshots
+
+### Pantalla principal
+
+![Home1](./screenshots/currency_converter_1.png)
+![Home2](./screenshots/currency_converter_2.png)
+
 ## ⚙️ Instalación
 
 1. Clona este repositorio
