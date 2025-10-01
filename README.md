@@ -8,6 +8,16 @@ Aplicación web que permite convertir entre distintas divisas de forma rápida y
 - Interfaz limpia y responsiva gracias a Tailwind CSS.
 - Selección de divisas mediante menús desplegables fáciles de usar.
 
+## ⚙️ Instalación
+
+1. Clona este repositorio
+2. Entra en la carpeta del proyecto
+3. Instala la dependencias: **npm install**
+4. Inicia el servidor de desarrollo: **npm run dev**
+
+El sitio se abrirá en http://localhost:5173
+(o el puerto que Vite te indique).
+
 ## 🖥️ Tecnologías Utilizadas
 
 - React
